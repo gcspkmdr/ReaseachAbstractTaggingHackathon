@@ -17,8 +17,9 @@ The model has been trained on 4 modifications of data:
 * Original without Latex Tags
 * Augmented Data(Translate into some laguage like dutch + De-Translate back to english)
 * Augmented Data - without Latex Tags
-The details can bee found out in this notebook https://www.kaggle.com/gcspkmdr/text-data-augmentation-latex-tag-translate/edit
+The details can bee found out in this notebook https://github.com/gcspkmdr/ReaseachAbstractTaggingHackathon/blob/master/text-data-augmentation-latex-tag-translate.ipynb
 
 Accelerator used -> GPU
 
-An Ensemble is created using cross validation on datasets
+* An Ensemble is created using 10 fold CV * 4 modification of datasets
+* A manual ensembling is done with 40 such probablity files(not in this repo) generated based on which particular ensemble is generating the best LB F1 score
