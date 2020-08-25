@@ -1,4 +1,4 @@
-# ReaseachAbstractTaggingHackathon
+# Reaseach Abstract Tagging Hackathon
 
 Model Used -> SciBert
 
