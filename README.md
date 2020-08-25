@@ -15,9 +15,9 @@ Code File used for submission -> https://github.com/gcspkmdr/ReaseachAbstractTag
 The model has been trained on 4 modifications of data:
 * Original
 * Original without Latex Tags
-* Augmented Data(Translate into some laguage like dutch + De-Translate back to english)
+* Augmented Data(Translate into some language like dutch + De-Translate back to english)
 * Augmented Data - without Latex Tags
-The details can bee found out in this notebook https://github.com/gcspkmdr/ReaseachAbstractTaggingHackathon/blob/master/text-data-augmentation-latex-tag-translate.ipynb
+The details can be found out in this notebook https://github.com/gcspkmdr/ReaseachAbstractTaggingHackathon/blob/master/text-data-augmentation-latex-tag-translate.ipynb
 
 Accelerator used -> GPU
 
